@@ -1,5 +1,3 @@
-[Print this document](https://gitprint.com/utah/bin150/blob/master/Syllabus.md)
-
 # BIN 15O - Bioinformatics Programming 1
 #####[github.com/utah/bin150](http://github.com/utah/bin150)
 #####Instructor: John Smith ([jsmith@utah.edu](mailto:jsmith@utah.edu))
