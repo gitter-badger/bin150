@@ -13,4 +13,4 @@ Assignments can be found in the `assignments` directory of the repo. To download
 
 1. (Do this step only once) Clone the repo to your computer with `git clone https://github.com/utah/bin150`
 2. To update the repo, `cd` to the repo directory and run `git pull` 
-
+3. Have fun!
