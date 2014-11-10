@@ -2,3 +2,5 @@
 ####*5 pts*
 
 The goal of this HW assignment is too teach you how to turn in assignments.
+
+This is stupid and I hate it.
