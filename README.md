@@ -1,4 +1,5 @@
 # BIN 150 - Bioinformatics Programming 1
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/utah/bin150?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 [Syllabus](http://github.com/utah/bin150/blob/master/Syllabus.md)
 [Schedule](http://calendar.google.com)
